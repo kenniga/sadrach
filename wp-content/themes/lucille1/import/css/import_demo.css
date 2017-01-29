@@ -1,0 +1,69 @@
+h2.import_demo_title {
+    text-transform: uppercase;
+    text-align: center;
+    letter-spacing: 6px;
+    font-weight: 600!important;
+    margin-top: 40px !important;
+	font-size: 22px !important;
+}
+.import_items {
+	margin-top: 60px;
+	display: table;
+}
+
+.items_row {
+	padding-bottom: 50px;
+    display: block;
+}
+
+.items_cell {
+	display: table-cell;
+	cursor: pointer;
+	text-align: center;
+}
+
+.items_cell img {
+	max-width: 100%;
+	transition: opacity .3s linear;
+	-webkit-transition: opacity .3s linear;	
+}
+
+.items_cell:hover > img{
+	opacity: 0.7;
+}
+
+.import_lucille_btn {
+	margin-top: 10px !important;
+}
+
+hr.after_demos {
+	border-top: 1px solid #CCC;	
+}
+
+#import_message {
+	width: 100%;
+	margin-top: 50px;
+}
+
+.import_spinner {
+	display: none;
+	position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-left: -25px;
+	margin-top: -25px;
+}
+
+.available_demos  {
+	position: relative;
+}
+
+#js_swp_import_details {
+	display: none;
+}
+
+.js_server_error {
+	padding-top: 10px !important;
+    padding-bottom: 10px !important;
+    line-height: 24px;
+}

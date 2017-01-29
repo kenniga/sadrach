@@ -1,0 +1,11 @@
+.lc_swp_setting_preview_logo, .lc_swp_setting_preview_favicon {
+	max-width: 400px;
+}
+
+#lc_logo_image_preview, #lc_favicon_image_preview, #lc_innner_bg_image_preview, #lc_footer_widgets_bg_image_preview {
+	margin-top: 7px;
+}
+
+#lc_swp_logo_upload_value, #lc_swp_favicon_upload_value, #lc_swp_innner_bg_image_upload_value, #lc_swp_footer_bg_image_upload_value {
+	display: none;
+}

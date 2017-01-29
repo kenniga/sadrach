@@ -1,0 +1,42 @@
+#audio_list
+{
+	font-size: 1.2em;
+	font-weight: none;
+	color: #333333;
+}
+
+#ul_sortable_list li
+{
+	border: 1px dashed #0493CB;
+    margin-bottom: 11px;
+    padding: 4px;
+	cursor: pointer;
+	background: none repeat scroll 0 0 #EFEFEF;
+	font-size: 14px;
+	color: #222;
+}
+
+#ul_sortable_list li:hover
+{
+	border-color: #FF2929;
+}
+
+.song_controls, .song_name
+{
+	display: inline;
+}
+
+.song_controls
+{
+	float: right;
+}
+
+.remove_audio
+{
+	color: #21759B
+}
+
+.remove_audio:hover
+{
+	color: #D54E21;
+}

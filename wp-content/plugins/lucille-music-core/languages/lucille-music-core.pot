@@ -1,0 +1,1124 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: BUG-EMAIL-ADDR <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: yyyy-mm-dd hh:mm+0000\n"
+"PO-Revision-Date: 2016-12-22 23:56+0200\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Eazy Po 0.9.5.3\n"
+
+#: ajax_binding.php:39
+msgid "Please enter a message."
+msgstr ""
+
+#: ajax_binding.php:52
+msgid "New contact form message from your website "
+msgstr ""
+
+#: ajax_binding.php:54
+msgid "Contact Phone: "
+msgstr ""
+
+#: albums.php:15
+msgid "Albums"
+msgstr ""
+
+#: albums.php:16
+msgid "Album"
+msgstr ""
+
+#: albums.php:17 albums.php:18
+msgid "Add New Album"
+msgstr ""
+
+#: albums.php:19 events.php:18 photo_albums.php:18 videos.php:18
+msgid "Edit"
+msgstr ""
+
+#: albums.php:20
+msgid "Edit Album"
+msgstr ""
+
+#: albums.php:21
+msgid "New Album"
+msgstr ""
+
+#: albums.php:22 events.php:21 photo_albums.php:21 videos.php:21
+msgid "View"
+msgstr ""
+
+#: albums.php:23
+msgid "View Album"
+msgstr ""
+
+#: albums.php:24
+msgid "Search Albums"
+msgstr ""
+
+#: albums.php:25
+msgid "No Album Found"
+msgstr ""
+
+#: albums.php:26
+msgid "No Album Found in Trash"
+msgstr ""
+
+#: albums.php:27
+msgid "Parent Album"
+msgstr ""
+
+#: albums.php:51
+msgid "Album Settings"
+msgstr ""
+
+#: albums.php:60
+msgid "Song List"
+msgstr ""
+
+#: albums.php:110
+msgid "Artist/Band"
+msgstr ""
+
+#: albums.php:112
+msgid "Artist/Band Name"
+msgstr ""
+
+#: albums.php:116
+msgid "Release Date"
+msgstr ""
+
+#: albums.php:118
+msgid "Album Release Date YYYY/MM/DD"
+msgstr ""
+
+#: albums.php:122
+msgid "Number of Discs"
+msgstr ""
+
+#: albums.php:124
+msgid "Number of Discs  1/2/3..."
+msgstr ""
+
+#: albums.php:128 albums.php:465
+msgid "Label"
+msgstr ""
+
+#: albums.php:130
+msgid "Record Label - like - Chess Records"
+msgstr ""
+
+#: albums.php:134 albums.php:466
+msgid "Producer"
+msgstr ""
+
+#: albums.php:136
+msgid "Album Producer - like - Bob Rock"
+msgstr ""
+
+#: albums.php:140
+msgid "Catalogue Number"
+msgstr ""
+
+#: albums.php:142
+msgid "Catalogue Number - like - 650001"
+msgstr ""
+
+#: albums.php:146
+msgid "Youtube Promo URL"
+msgstr ""
+
+#: albums.php:148
+msgid "Youtube URL - like - http://youtu.be/jUk-5nsGedM "
+msgstr ""
+
+#: albums.php:152
+msgid "Vimeo Promo URL"
+msgstr ""
+
+#: albums.php:154
+msgid "Vimeo URL - like - http://vimeo.com/8119784 "
+msgstr ""
+
+#: albums.php:159 albums.php:172 albums.php:185 albums.php:198 albums.php:211
+#: albums.php:224
+msgid "Buy Message"
+msgstr ""
+
+#: albums.php:161
+msgid "Buy Message - like - Buy It from Amazon"
+msgstr ""
+
+#: albums.php:165 albums.php:178 albums.php:191 albums.php:204 albums.php:217
+#: albums.php:230
+msgid "Buy URL"
+msgstr ""
+
+#: albums.php:167
+msgid ""
+"Buy URL - like - http://www.amazon.com/Old-Sock-Eric-Clapton/dp/B00B23O96A/"
+"ref=ntt_mus_ep_dpi_1 "
+msgstr ""
+
+#: albums.php:174
+msgid "Buy Message - like - Buy It from iTunes"
+msgstr ""
+
+#: albums.php:180
+msgid ""
+"Buy URL - like - https://itunes.apple.com/us/album/living-proof/id394442693 "
+msgstr ""
+
+#: albums.php:187
+msgid "Buy Message - like - Buy It from SoundCloud"
+msgstr ""
+
+#: albums.php:193
+msgid ""
+"Buy URL - like - http://www.last.fm/music/Radiohead/1995-06-01:+Tramps,+New"
+"+York,+NY,+USA "
+msgstr ""
+
+#: albums.php:200
+msgid "Buy Message - like - Buy It from eBay"
+msgstr ""
+
+#: albums.php:206 albums.php:219 albums.php:232
+msgid "Buy URL - like - http://www.ebay.com/soc/itm/330938741705 "
+msgstr ""
+
+#: albums.php:213 albums.php:226
+msgid "Buy Message - like - Buy It from Google Play"
+msgstr ""
+
+#: albums.php:237
+msgid "SoundCloud"
+msgstr ""
+
+#: albums.php:250
+msgid ""
+"SoundCloud Embed URL - If this field is filled, it will be shown instead of "
+"the uploaded media"
+msgstr ""
+
+#: albums.php:463 events.php:227
+msgid "Album Title"
+msgstr ""
+
+#: albums.php:464
+msgid "Album Artist"
+msgstr ""
+
+#: albums.php:467 events.php:231 photo_albums.php:249 videos.php:121
+msgid "Author"
+msgstr ""
+
+#: albums.php:468 events.php:228 events.php:232 photo_albums.php:250
+#: videos.php:122
+msgid "Date"
+msgstr ""
+
+#: albums.php:539
+msgid "Album Categories"
+msgstr ""
+
+#: albums.php:540
+msgid "Album Category"
+msgstr ""
+
+#: albums.php:541
+msgid "Search Album Categories"
+msgstr ""
+
+#: albums.php:542
+msgid "All Album Categories"
+msgstr ""
+
+#: albums.php:543
+msgid "Parent Album Category"
+msgstr ""
+
+#: albums.php:544
+msgid "Parent Album Category:"
+msgstr ""
+
+#: albums.php:545
+msgid "Edit Album Category"
+msgstr ""
+
+#: albums.php:546
+msgid "Update Album Category"
+msgstr ""
+
+#: albums.php:547
+msgid "Add New Album Category"
+msgstr ""
+
+#: albums.php:548
+msgid "New Album Category"
+msgstr ""
+
+#: custom_meta_boxes.php:13
+msgid "Page Settings"
+msgstr ""
+
+#: custom_meta_boxes.php:19
+msgid "Header Settings"
+msgstr ""
+
+#: custom_meta_boxes.php:32
+msgid "Archive And Blog Settings"
+msgstr ""
+
+#: custom_meta_boxes.php:68
+msgid "Choose custom page background image:"
+msgstr ""
+
+#: custom_meta_boxes.php:72 custom_meta_boxes.php:196
+msgid "Choose Image"
+msgstr ""
+
+#: custom_meta_boxes.php:73 custom_meta_boxes.php:197
+msgid "Remove Image"
+msgstr ""
+
+#: custom_meta_boxes.php:81
+msgid "Page background color overlay:"
+msgstr ""
+
+#: custom_meta_boxes.php:87
+msgid "Remove footer widgets area for this page:"
+msgstr ""
+
+#: custom_meta_boxes.php:135
+msgid "Subtitle &amp; Text Color"
+msgstr ""
+
+#: custom_meta_boxes.php:138
+msgid "Page subtitle:"
+msgstr ""
+
+#: custom_meta_boxes.php:145
+msgid "Color Scheme:"
+msgstr ""
+
+#: custom_meta_boxes.php:166
+msgid "Heading style:"
+msgstr ""
+
+#: custom_meta_boxes.php:184
+msgid "If the subtitle is not present, heading style is ignored."
+msgstr ""
+
+#: custom_meta_boxes.php:189
+msgid "Background"
+msgstr ""
+
+#: custom_meta_boxes.php:194
+msgid "Background image:"
+msgstr ""
+
+#: custom_meta_boxes.php:207
+msgid "Background color overlay:"
+msgstr ""
+
+#: custom_meta_boxes.php:254
+msgid ""
+"Choose blog or archive page layout. Applies on the following page templates: "
+"Blog"
+msgstr ""
+
+#: events.php:14 events.php:15
+msgid "Events"
+msgstr ""
+
+#: events.php:16 events.php:17
+msgid "Add New Event"
+msgstr ""
+
+#: events.php:19
+msgid "Edit Event"
+msgstr ""
+
+#: events.php:20
+msgid "New Event"
+msgstr ""
+
+#: events.php:22
+msgid "View Event"
+msgstr ""
+
+#: events.php:23
+msgid "Search Events"
+msgstr ""
+
+#: events.php:24
+msgid "No Event Found"
+msgstr ""
+
+#: events.php:25
+msgid "No Event Found in Trash"
+msgstr ""
+
+#: events.php:26
+msgid "Parent Event"
+msgstr ""
+
+#: events.php:49
+msgid "Event Settings"
+msgstr ""
+
+#: events.php:76
+msgid "Event Date"
+msgstr ""
+
+#: events.php:78
+msgid "The Date for Event YYYY/MM/DD"
+msgstr ""
+
+#: events.php:82
+msgid "Event Time"
+msgstr ""
+
+#: events.php:84
+msgid "Event Time hh:mm"
+msgstr ""
+
+#: events.php:88
+msgid "Event Venue"
+msgstr ""
+
+#: events.php:90
+msgid "Venue ex. Glastonbury Festival"
+msgstr ""
+
+#: events.php:94
+msgid "Venue URL"
+msgstr ""
+
+#: events.php:96
+msgid "Venue URL ex. http://www.glastonburyfestivals.co.uk/"
+msgstr ""
+
+#: events.php:101 events.php:229
+msgid "Location"
+msgstr ""
+
+#: events.php:103
+msgid "Event Location ex. Worthy Farm, Pilton GB"
+msgstr ""
+
+#: events.php:108
+msgid "Buy Tickets Message"
+msgstr ""
+
+#: events.php:110
+msgid "ex. Buy Tickets From ..."
+msgstr ""
+
+#: events.php:114
+msgid "Buy Tickets URL"
+msgstr ""
+
+#: events.php:116
+msgid "ex. http://www.ticketmaster.com/"
+msgstr ""
+
+#: events.php:120
+msgid "Facebook Event Message"
+msgstr ""
+
+#: events.php:122
+msgid "ex. Check event on Facebook"
+msgstr ""
+
+#: events.php:126
+msgid "Facebook Event URL"
+msgstr ""
+
+#: events.php:128
+msgid "URL to Facebook Event Page"
+msgstr ""
+
+#: events.php:132
+msgid "Google Map Embed Code"
+msgstr ""
+
+#: events.php:146
+msgid ""
+"Embedded code ex. &lt;iframe src=\"https://www.google.com/maps/embed?pb=..\" "
+"&gt;&lt;/iframe&gt;"
+msgstr ""
+
+#: events.php:150 videos.php:70 videos.php:119
+msgid "Youtube URL"
+msgstr ""
+
+#: events.php:152
+msgid "URL to Promo Video on Youtube"
+msgstr ""
+
+#: events.php:156 videos.php:76 videos.php:120
+msgid "Vimeo URL"
+msgstr ""
+
+#: events.php:158
+msgid "URL to Promo Video on Vimeo"
+msgstr ""
+
+#: events.php:230
+msgid "Venue"
+msgstr ""
+
+#: events.php:284
+msgid "Event Categories"
+msgstr ""
+
+#: events.php:285
+msgid "Event Category"
+msgstr ""
+
+#: events.php:286
+msgid "Search Event Categories"
+msgstr ""
+
+#: events.php:287
+msgid "All Event Categories"
+msgstr ""
+
+#: events.php:288
+msgid "Parent Event Category"
+msgstr ""
+
+#: events.php:289
+msgid "Parent Event Category:"
+msgstr ""
+
+#: events.php:290
+msgid "Edit Event Category"
+msgstr ""
+
+#: events.php:291
+msgid "Update Event Category"
+msgstr ""
+
+#: events.php:292
+msgid "Add New Event Category"
+msgstr ""
+
+#: events.php:293
+msgid "New Event Category"
+msgstr ""
+
+#: lmc_plugin_settings.php:57
+msgid "Lucille Plugin Settings"
+msgstr ""
+
+#: lmc_plugin_settings.php:74
+msgid "Event Post Type Slug"
+msgstr ""
+
+#: lmc_plugin_settings.php:82
+msgid "Photo Album Post Type Slug"
+msgstr ""
+
+#: lmc_plugin_settings.php:90
+msgid "Video Post Type Slug"
+msgstr ""
+
+#: lmc_plugin_settings.php:98
+msgid "Audio Post Type Slug"
+msgstr ""
+
+#: lmc_plugin_settings.php:109
+msgid "Event Category Slug"
+msgstr ""
+
+#: lmc_plugin_settings.php:117
+msgid "Photo Album Category Slug"
+msgstr ""
+
+#: lmc_plugin_settings.php:125
+msgid "Video Category Slug"
+msgstr ""
+
+#: lmc_plugin_settings.php:133
+msgid "Album Category Slug"
+msgstr ""
+
+#: lmc_plugin_settings.php:141
+msgid "Contact Form E-mail"
+msgstr ""
+
+#: lmc_plugin_settings.php:156
+msgid ""
+"Set up the slugs for custom post types and the contact form recipiend email "
+"address."
+msgstr ""
+
+#: lmc_plugin_settings.php:263
+msgid "This is the recipient email address for the contact form."
+msgstr ""
+
+#: lucille_widgets.php:7
+msgid "Recent Posts With Images"
+msgstr ""
+
+#: lucille_widgets.php:89
+msgid "Latest News"
+msgstr ""
+
+#: lucille_widgets.php:94 lucille_widgets.php:237
+msgid "Title:"
+msgstr ""
+
+#: lucille_widgets.php:97 lucille_widgets.php:240
+msgid "Number of posts:"
+msgstr ""
+
+#: lucille_widgets.php:129
+msgid "Shows The Next Events"
+msgstr ""
+
+#: lucille_widgets.php:232
+msgid "Upcoming Events"
+msgstr ""
+
+#: photo_albums.php:14
+msgid "Photo Albums"
+msgstr ""
+
+#: photo_albums.php:15
+msgid "Photo Album"
+msgstr ""
+
+#: photo_albums.php:16 photo_albums.php:17
+msgid "Add New Photo Album"
+msgstr ""
+
+#: photo_albums.php:19
+msgid "Edit Photo Album"
+msgstr ""
+
+#: photo_albums.php:20
+msgid "New Photo Album"
+msgstr ""
+
+#: photo_albums.php:22
+msgid "View Photo Album"
+msgstr ""
+
+#: photo_albums.php:23
+msgid "Search Photo Albums"
+msgstr ""
+
+#: photo_albums.php:24
+msgid "No Photo Albums found"
+msgstr ""
+
+#: photo_albums.php:25
+msgid "No Photo Albums Found in Trash"
+msgstr ""
+
+#: photo_albums.php:26
+msgid "Parent Photo Album"
+msgstr ""
+
+#: photo_albums.php:47
+msgid "Image Gallery"
+msgstr ""
+
+#: photo_albums.php:103
+msgid "Add Images To Gallery"
+msgstr ""
+
+#: photo_albums.php:248
+msgid "Photo Album Title"
+msgstr ""
+
+#: photo_albums.php:287
+msgid "Photo Album Categories"
+msgstr ""
+
+#: photo_albums.php:288
+msgid "Photo Album Category"
+msgstr ""
+
+#: photo_albums.php:289
+msgid "Search Photo Album Categories"
+msgstr ""
+
+#: photo_albums.php:290
+msgid "All Photo Album Categories"
+msgstr ""
+
+#: photo_albums.php:291
+msgid "Parent Photo Album Category"
+msgstr ""
+
+#: photo_albums.php:292
+msgid "Parent Photo Album Category:"
+msgstr ""
+
+#: photo_albums.php:293
+msgid "Edit Photo Album Category"
+msgstr ""
+
+#: photo_albums.php:294
+msgid "Update Photo Album Category"
+msgstr ""
+
+#: photo_albums.php:295
+msgid "Add New Photo Album Category"
+msgstr ""
+
+#: photo_albums.php:296
+msgid "New Photo Album Category"
+msgstr ""
+
+#: videos.php:14
+msgid "Videos"
+msgstr ""
+
+#: videos.php:15
+msgid "Video"
+msgstr ""
+
+#: videos.php:16 videos.php:17
+msgid "Add New Video"
+msgstr ""
+
+#: videos.php:19
+msgid "Edit Video"
+msgstr ""
+
+#: videos.php:20
+msgid "New Video"
+msgstr ""
+
+#: videos.php:22
+msgid "View Video"
+msgstr ""
+
+#: videos.php:23
+msgid "Search Videos"
+msgstr ""
+
+#: videos.php:24
+msgid "No Videos Found"
+msgstr ""
+
+#: videos.php:25
+msgid "No Videos Found in Trash"
+msgstr ""
+
+#: videos.php:26
+msgid "Parent Video"
+msgstr ""
+
+#: videos.php:48
+msgid "Video Custom Settings"
+msgstr ""
+
+#: videos.php:72
+msgid "Youtube short url like - http://youtu.be/jUk-5nsGedM ."
+msgstr ""
+
+#: videos.php:78
+msgid "Vimeo short url like - http://vimeo.com/8119784 ."
+msgstr ""
+
+#: videos.php:118
+msgid "Video Title"
+msgstr ""
+
+#: videos.php:185
+msgid "Video Categories"
+msgstr ""
+
+#: videos.php:186
+msgid "Video Category"
+msgstr ""
+
+#: videos.php:187
+msgid "Search Video Categories"
+msgstr ""
+
+#: videos.php:188
+msgid "All Video Categories"
+msgstr ""
+
+#: videos.php:189
+msgid "Parent Video Category"
+msgstr ""
+
+#: videos.php:190
+msgid "Parent Video Category:"
+msgstr ""
+
+#: videos.php:191
+msgid "Edit Video Category"
+msgstr ""
+
+#: videos.php:192
+msgid "Update Video Category"
+msgstr ""
+
+#: videos.php:193
+msgid "Add New Video Category"
+msgstr ""
+
+#: videos.php:194
+msgid "New Video Category"
+msgstr ""
+
+#: visual_composer/add_remove_params.php:11
+msgid "Color Overlay"
+msgstr ""
+
+#: visual_composer/add_remove_params.php:14
+msgid "Use a color overlay over the background image"
+msgstr ""
+
+#: visual_composer/add_remove_params.php:20
+msgid "Color Scheme"
+msgstr ""
+
+#: visual_composer/add_remove_params.php:23
+msgid "Theme Settings Default"
+msgstr ""
+
+#: visual_composer/add_remove_params.php:24
+msgid "White On Black"
+msgstr ""
+
+#: visual_composer/add_remove_params.php:25
+msgid "Black On White"
+msgstr ""
+
+#: visual_composer/add_remove_params.php:27
+msgid ""
+"Add a custom color scheme that will overwrite the option in Appearance - "
+"Lucille Settings - General. This is an option added by Lucille theme"
+msgstr ""
+
+#: visual_composer/add_shortcodes.php:448
+msgid "Tickets"
+msgstr ""
+
+#: visual_composer/add_shortcodes.php:451
+msgid "Coming Soon"
+msgstr ""
+
+#: visual_composer/add_shortcodes.php:515
+msgid "Name "
+msgstr ""
+
+#: visual_composer/add_shortcodes.php:516
+msgid "Please enter your name"
+msgstr ""
+
+#: visual_composer/add_shortcodes.php:520
+msgid "Email "
+msgstr ""
+
+#: visual_composer/add_shortcodes.php:521
+msgid "Please enter a correct email address"
+msgstr ""
+
+#: visual_composer/add_shortcodes.php:525
+msgid "Phone "
+msgstr ""
+
+#: visual_composer/add_shortcodes.php:529
+msgid "Message "
+msgstr ""
+
+#: visual_composer/add_shortcodes.php:530
+msgid "Please enter a message"
+msgstr ""
+
+#: visual_composer/add_shortcodes.php:541
+msgid ""
+"Cannot send mail, an error occurred while delivering this message. Please "
+"try again later."
+msgstr ""
+
+#: visual_composer/add_shortcodes.php:545
+msgid "Your message was sent successfully. Thanks!"
+msgstr ""
+
+#: visual_composer/add_shortcodes.php:549
+msgid "Send Email"
+msgstr ""
+
+#: visual_composer/add_shortcodes.php:719
+msgid "Read more"
+msgstr ""
+
+#: visual_composer/add_shortcodes.php:759
+msgid "by"
+msgstr ""
+
+#: visual_composer/add_shortcodes.php:767
+msgid "in&nbsp;"
+msgstr ""
+
+#: visual_composer/vc_map.php:15
+msgid "Gallery"
+msgstr ""
+
+#: visual_composer/vc_map.php:18 visual_composer/vc_map.php:88
+#: visual_composer/vc_map.php:121 visual_composer/vc_map.php:190
+#: visual_composer/vc_map.php:216 visual_composer/vc_map.php:258
+#: visual_composer/vc_map.php:288 visual_composer/vc_map.php:356
+#: visual_composer/vc_map.php:441 visual_composer/vc_map.php:467
+msgid "Lucille Elements"
+msgstr ""
+
+#: visual_composer/vc_map.php:23
+msgid "Row height in pixels"
+msgstr ""
+
+#: visual_composer/vc_map.php:26
+msgid "Row height in pixels. Digits only. Default value: 180"
+msgstr ""
+
+#: visual_composer/vc_map.php:31 visual_composer/vc_map.php:221
+msgid "View all text message"
+msgstr ""
+
+#: visual_composer/vc_map.php:34
+msgid "View all text message. If empty, default value is: View All Images"
+msgstr ""
+
+#: visual_composer/vc_map.php:39
+msgid "Gallery Page URL"
+msgstr ""
+
+#: visual_composer/vc_map.php:42
+msgid "URL to all Photo Gallery page."
+msgstr ""
+
+#: visual_composer/vc_map.php:47
+msgid "Add images"
+msgstr ""
+
+#: visual_composer/vc_map.php:50
+msgid "Add your images here"
+msgstr ""
+
+#: visual_composer/vc_map.php:85
+msgid "Featured Music Album"
+msgstr ""
+
+#: visual_composer/vc_map.php:93
+msgid "Select Album"
+msgstr ""
+
+#: visual_composer/vc_map.php:96
+msgid "Select The Album You Want To Promote"
+msgstr ""
+
+#: visual_composer/vc_map.php:101
+msgid "Short Album Description"
+msgstr ""
+
+#: visual_composer/vc_map.php:104
+msgid "Please add the album description."
+msgstr ""
+
+#: visual_composer/vc_map.php:118
+msgid "Latest Music Albums"
+msgstr ""
+
+#: visual_composer/vc_map.php:126
+msgid "View more text message"
+msgstr ""
+
+#: visual_composer/vc_map.php:129
+msgid "View all text message. If empty, default value is: View More"
+msgstr ""
+
+#: visual_composer/vc_map.php:134
+msgid "Discography Page URL"
+msgstr ""
+
+#: visual_composer/vc_map.php:137
+msgid "URL to Discography page."
+msgstr ""
+
+#: visual_composer/vc_map.php:142
+msgid "Number of Albums To Show"
+msgstr ""
+
+#: visual_composer/vc_map.php:145
+msgid "Number of Albums Displayed. Default value: 3."
+msgstr ""
+
+#: visual_composer/vc_map.php:187
+msgid "Featured Video"
+msgstr ""
+
+#: visual_composer/vc_map.php:195
+msgid "Choose Video"
+msgstr ""
+
+#: visual_composer/vc_map.php:198
+msgid "Choose Featured Video"
+msgstr ""
+
+#: visual_composer/vc_map.php:213
+msgid "Next Events"
+msgstr ""
+
+#: visual_composer/vc_map.php:224
+msgid "View all text message. If empty, default value is: View All Events"
+msgstr ""
+
+#: visual_composer/vc_map.php:229
+msgid "Events Page URL"
+msgstr ""
+
+#: visual_composer/vc_map.php:232
+msgid "URL to Events page."
+msgstr ""
+
+#: visual_composer/vc_map.php:237
+msgid "Number of Events"
+msgstr ""
+
+#: visual_composer/vc_map.php:240
+msgid "Number of Events Displayed. Default value: 5."
+msgstr ""
+
+#: visual_composer/vc_map.php:255
+msgid "Ajax Contact Form"
+msgstr ""
+
+#: visual_composer/vc_map.php:263
+msgid "Input Styling"
+msgstr ""
+
+#: visual_composer/vc_map.php:269
+msgid "Choose how to render the input fields"
+msgstr ""
+
+#: visual_composer/vc_map.php:285
+msgid "Section Heading"
+msgstr ""
+
+#: visual_composer/vc_map.php:293
+msgid "Title"
+msgstr ""
+
+#: visual_composer/vc_map.php:296
+msgid ""
+"Section title - use &lt;span class=&quot;lc_vibrant_color&quot;&gt;some "
+"colored text&lt;/span&gt; to color one or more words in vibrant color."
+msgstr ""
+
+#: visual_composer/vc_map.php:301
+msgid "Title transform"
+msgstr ""
+
+#: visual_composer/vc_map.php:307
+msgid "Make section title uppercase"
+msgstr ""
+
+#: visual_composer/vc_map.php:312
+msgid "Subtitle"
+msgstr ""
+
+#: visual_composer/vc_map.php:315
+msgid ""
+"Section subtitle (optional) - use &lt;span class=&quot;lc_vibrant_color&quot;"
+"&gt;some colored text&lt;/span&gt; to color one or more words in vibrant "
+"color."
+msgstr ""
+
+#: visual_composer/vc_map.php:320
+msgid "Subtitle transform"
+msgstr ""
+
+#: visual_composer/vc_map.php:326 visual_composer/vc_map.php:338
+msgid "Make section subtitle uppercase"
+msgstr ""
+
+#: visual_composer/vc_map.php:331
+msgid "Text align"
+msgstr ""
+
+#: visual_composer/vc_map.php:353
+msgid "Lucille Button"
+msgstr ""
+
+#: visual_composer/vc_map.php:361
+msgid "Button Text"
+msgstr ""
+
+#: visual_composer/vc_map.php:364
+msgid "Text shown on Button"
+msgstr ""
+
+#: visual_composer/vc_map.php:369
+msgid "Button URL"
+msgstr ""
+
+#: visual_composer/vc_map.php:372
+msgid "URL for this button"
+msgstr ""
+
+#: visual_composer/vc_map.php:377
+msgid "Button Align"
+msgstr ""
+
+#: visual_composer/vc_map.php:384
+msgid "Button alignment"
+msgstr ""
+
+#: visual_composer/vc_map.php:399
+msgid "User Review"
+msgstr ""
+
+#: visual_composer/vc_map.php:408 visual_composer/vc_map.php:411
+msgid "Reviewer Name"
+msgstr ""
+
+#: visual_composer/vc_map.php:416
+msgid "Reviewer Image"
+msgstr ""
+
+#: visual_composer/vc_map.php:419
+msgid "Image for the review author"
+msgstr ""
+
+#: visual_composer/vc_map.php:424 visual_composer/vc_map.php:427
+msgid "Review Content"
+msgstr ""
+
+#: visual_composer/vc_map.php:439
+msgid "User Reviews Slider"
+msgstr ""
+
+#: visual_composer/vc_map.php:464
+msgid "Blog Posts"
+msgstr ""
+
+#: visual_composer/vc_map.php:472
+msgid "Number Of Oosts"
+msgstr ""
+
+#: visual_composer/vc_map.php:475
+msgid "Number of posts to show. Default value: 3"
+msgstr ""

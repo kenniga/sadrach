@@ -1,0 +1,2258 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: BUG-EMAIL-ADDR <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: yyyy-mm-dd hh:mm+0000\n"
+"PO-Revision-Date: 2016-12-22 23:42+0200\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Eazy Po 0.9.5.3\n"
+
+#: lucille/404.php:7
+msgid "The page you are looking for was not found"
+msgstr ""
+
+#: lucille/404.php:9
+msgid ""
+"Sorry, the page you are looking for does not exist. Please return back to "
+"the site&#39;s homepage or contact us to report a problem."
+msgstr ""
+
+#: lucille/404.php:13
+msgid "back to homepage"
+msgstr ""
+
+#: lucille/comments.php:19
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: lucille/comments.php:36
+#, php-format
+msgid "There is one comment on %2$s"
+msgid_plural "There are %1$s comments on %2$s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lucille/comments.php:51 lucille/comments.php:94
+msgid "<span class=\"meta-nav\">&larr;</span> Older Comments"
+msgstr ""
+
+#: lucille/comments.php:63 lucille/comments.php:105
+msgid "Newer Comments <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: lucille/comments.php:116
+msgid "Comments are closed."
+msgstr ""
+
+#: lucille/comments.php:123
+msgid "Leave a Reply"
+msgstr ""
+
+#: lucille/index.php:20
+msgid ""
+"Sorry, no results were found matching your search criteria. Please try "
+"something else."
+msgstr ""
+
+#: lucille/index.php:22 lucille/page.php:10 lucille/single.php:28
+#: lucille/template-blog.php:105 lucille/template-sidebar.php:15
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#: lucille/searchform.php:3
+msgid "search&hellip;"
+msgstr ""
+
+#: lucille/searchform.php:6
+msgid "Search"
+msgstr ""
+
+#: lucille/template-contact.php:11
+msgid "Send us a message"
+msgstr ""
+
+#: lucille/template-contact.php:16
+msgid "Where to find us"
+msgstr ""
+
+#: lucille/assets/class-tgm-plugin-activation.php:327
+#: lucille/core/install_required_plugins.php:69
+msgid "Install Required Plugins"
+msgstr ""
+
+#: lucille/assets/class-tgm-plugin-activation.php:328
+#: lucille/core/install_required_plugins.php:70
+msgid "Install Plugins"
+msgstr ""
+
+#: lucille/assets/class-tgm-plugin-activation.php:330
+#: lucille/core/install_required_plugins.php:71
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: lucille/assets/class-tgm-plugin-activation.php:332
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: lucille/assets/class-tgm-plugin-activation.php:333
+#: lucille/core/install_required_plugins.php:72
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: lucille/assets/class-tgm-plugin-activation.php:336
+#: lucille/core/install_required_plugins.php:73
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: lucille/assets/class-tgm-plugin-activation.php:342
+#: lucille/core/install_required_plugins.php:74
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: lucille/assets/class-tgm-plugin-activation.php:348
+#: lucille/core/install_required_plugins.php:79
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: lucille/assets/class-tgm-plugin-activation.php:354
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: lucille/assets/class-tgm-plugin-activation.php:360
+#: lucille/core/install_required_plugins.php:76
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: lucille/assets/class-tgm-plugin-activation.php:366
+#: lucille/core/install_required_plugins.php:77
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: lucille/assets/class-tgm-plugin-activation.php:371
+#: lucille/core/install_required_plugins.php:81
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lucille/assets/class-tgm-plugin-activation.php:376
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lucille/assets/class-tgm-plugin-activation.php:381
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lucille/assets/class-tgm-plugin-activation.php:385
+#: lucille/core/install_required_plugins.php:83
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: lucille/assets/class-tgm-plugin-activation.php:386
+#: lucille/assets/class-tgm-plugin-activation.php:827
+#: lucille/assets/class-tgm-plugin-activation.php:2533
+#: lucille/assets/class-tgm-plugin-activation.php:3583
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: lucille/assets/class-tgm-plugin-activation.php:387
+#: lucille/assets/class-tgm-plugin-activation.php:3159
+#: lucille/core/install_required_plugins.php:84
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: lucille/assets/class-tgm-plugin-activation.php:388
+#: lucille/assets/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lucille/assets/class-tgm-plugin-activation.php:390
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: lucille/assets/class-tgm-plugin-activation.php:392
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: lucille/assets/class-tgm-plugin-activation.php:394
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: lucille/assets/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr ""
+
+#: lucille/assets/class-tgm-plugin-activation.php:396
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: lucille/assets/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: lucille/assets/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: lucille/assets/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr ""
+
+#: lucille/assets/class-tgm-plugin-activation.php:934
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: lucille/assets/class-tgm-plugin-activation.php:934
+#: lucille/assets/class-tgm-plugin-activation.php:937
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: lucille/assets/class-tgm-plugin-activation.php:937
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: lucille/assets/class-tgm-plugin-activation.php:1121
+#: lucille/assets/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: lucille/assets/class-tgm-plugin-activation.php:1982
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: lucille/assets/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr ""
+
+#: lucille/assets/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr ""
+
+#: lucille/assets/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr ""
+
+#: lucille/assets/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr ""
+
+#: lucille/assets/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr ""
+
+#: lucille/assets/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr ""
+
+#: lucille/assets/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: lucille/assets/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr ""
+
+#: lucille/assets/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr ""
+
+#: lucille/assets/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr ""
+
+#: lucille/assets/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr ""
+
+#: lucille/assets/class-tgm-plugin-activation.php:2342
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: lucille/assets/class-tgm-plugin-activation.php:2388
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lucille/assets/class-tgm-plugin-activation.php:2392
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lucille/assets/class-tgm-plugin-activation.php:2396
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lucille/assets/class-tgm-plugin-activation.php:2400
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lucille/assets/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: lucille/assets/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr ""
+
+#: lucille/assets/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr ""
+
+#: lucille/assets/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr ""
+
+#: lucille/assets/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: lucille/assets/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr ""
+
+#: lucille/assets/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr ""
+
+#: lucille/assets/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr ""
+
+#: lucille/assets/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr ""
+
+#: lucille/assets/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr ""
+
+#: lucille/assets/class-tgm-plugin-activation.php:2603
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: lucille/assets/class-tgm-plugin-activation.php:2608
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: lucille/assets/class-tgm-plugin-activation.php:2614
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: lucille/assets/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: lucille/assets/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr ""
+
+#: lucille/assets/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr ""
+
+#: lucille/assets/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr ""
+
+#: lucille/assets/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: lucille/assets/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: lucille/assets/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: lucille/assets/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: lucille/assets/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: lucille/assets/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: lucille/assets/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr ""
+
+#: lucille/assets/class-tgm-plugin-activation.php:3498
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: lucille/assets/class-tgm-plugin-activation.php:3504
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: lucille/assets/class-tgm-plugin-activation.php:3506
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: lucille/assets/class-tgm-plugin-activation.php:3510
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: lucille/assets/class-tgm-plugin-activation.php:3512
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: lucille/assets/class-tgm-plugin-activation.php:3512
+#: lucille/assets/class-tgm-plugin-activation.php:3520
+msgid "Show Details"
+msgstr ""
+
+#: lucille/assets/class-tgm-plugin-activation.php:3512
+#: lucille/assets/class-tgm-plugin-activation.php:3520
+msgid "Hide Details"
+msgstr ""
+
+#: lucille/assets/class-tgm-plugin-activation.php:3513
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: lucille/assets/class-tgm-plugin-activation.php:3515
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: lucille/assets/class-tgm-plugin-activation.php:3518
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: lucille/assets/class-tgm-plugin-activation.php:3520
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: lucille/assets/class-tgm-plugin-activation.php:3521
+msgid "All installations have been completed."
+msgstr ""
+
+#: lucille/assets/class-tgm-plugin-activation.php:3523
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: lucille/assets/envato-wordpress-toolkit-library/class-envato-protected-api.php:67
+msgid "Please enter your Envato Marketplace Username."
+msgstr ""
+
+#: lucille/assets/envato-wordpress-toolkit-library/class-envato-protected-api.php:71
+msgid "Please enter your Envato Marketplace API Key."
+msgstr ""
+
+#: lucille/assets/envato-wordpress-toolkit-library/class-envato-protected-api.php:96
+msgid "The API \"set\" is a required parameter."
+msgstr ""
+
+#: lucille/assets/envato-wordpress-toolkit-library/class-envato-protected-api.php:167
+msgid "The Envato Marketplace \"item ID\" is a required parameter."
+msgstr ""
+
+#: lucille/assets/envato-wordpress-toolkit-library/class-envato-wordpress-theme-upgrader.php:289
+msgid "Downloading upgrade package from the Envato API&#8230;"
+msgstr ""
+
+#: lucille/assets/envato-wordpress-toolkit-library/class-envato-wordpress-theme-upgrader.php:300
+msgid "Downloading install package from the Envato API&#8230;"
+msgstr ""
+
+#: lucille/core/basic_theme_setup.php:34
+msgid "Main Menu"
+msgstr ""
+
+#: lucille/core/comments_template_cbk.php:31
+#, php-format
+msgid "%s <span class=\"says\">on</span>"
+msgstr ""
+
+#: lucille/core/comments_template_cbk.php:39
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: lucille/core/comments_template_cbk.php:42
+#: lucille/core/comments_template_cbk.php:65
+msgid "(Edit)"
+msgstr ""
+
+#: lucille/core/comments_template_cbk.php:48
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: lucille/core/comments_template_cbk.php:65
+msgid "Pingback:"
+msgstr ""
+
+#: lucille/core/comments_template_cbk.php:93
+msgid "Your name"
+msgstr ""
+
+#: lucille/core/comments_template_cbk.php:97
+msgid "E-mail address"
+msgstr ""
+
+#: lucille/core/comments_template_cbk.php:101
+msgid "Website"
+msgstr ""
+
+#: lucille/core/comments_template_cbk.php:112
+msgid "Write your comment here"
+msgstr ""
+
+#: lucille/core/install_required_plugins.php:75
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: lucille/core/install_required_plugins.php:78
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: lucille/core/install_required_plugins.php:80
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: lucille/core/install_required_plugins.php:82
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lucille/core/install_required_plugins.php:85
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: lucille/core/load_envato_toolkit.php:64
+#, php-format
+msgid ""
+"To enable theme update notifications, please enter your Envato Marketplace "
+"credentials in the %s"
+msgstr ""
+
+#: lucille/core/load_envato_toolkit.php:75
+#, php-format
+msgid "An update to the theme is available! Head over to %s to update it now."
+msgstr ""
+
+#: lucille/core/register_theme_sidebars.php:8
+msgid "Main Sidebar"
+msgstr ""
+
+#: lucille/core/register_theme_sidebars.php:10
+msgid "Right Sidebar"
+msgstr ""
+
+#: lucille/core/register_theme_sidebars.php:21
+msgid "Footer Sidebar 1"
+msgstr ""
+
+#: lucille/core/register_theme_sidebars.php:23
+#: lucille/core/register_theme_sidebars.php:35
+#: lucille/core/register_theme_sidebars.php:46
+#: lucille/core/register_theme_sidebars.php:58
+msgid "Appears in the footer area"
+msgstr ""
+
+#: lucille/core/register_theme_sidebars.php:33
+msgid "Footer Sidebar 2"
+msgstr ""
+
+#: lucille/core/register_theme_sidebars.php:44
+msgid "Footer Sidebar 3"
+msgstr ""
+
+#: lucille/core/register_theme_sidebars.php:56
+msgid "Footer Sidebar 4"
+msgstr ""
+
+#: lucille/core/woocommerce_support.php:48
+#: lucille/views/menu/centered_menu.php:58
+#: lucille/views/menu/classic_menu.php:43
+#: lucille/views/menu/creative_menu.php:48
+#: lucille/views/menu/mobile_menu.php:39
+msgid "View your shopping cart"
+msgstr ""
+
+#: lucille/customizer/theme_customizer.php:25
+msgid "Vibrant Color"
+msgstr ""
+
+#: lucille/customizer/theme_customizer.php:28
+msgid "Choose the link color"
+msgstr ""
+
+#: lucille/customizer/theme_customizer.php:48
+msgid "Secondary Color"
+msgstr ""
+
+#: lucille/customizer/theme_customizer.php:60
+msgid "Menu Colors"
+msgstr ""
+
+#: lucille/customizer/theme_customizer.php:63
+msgid "Choose menu colors"
+msgstr ""
+
+#: lucille/customizer/theme_customizer.php:82
+msgid "Menu Bar Background Color"
+msgstr ""
+
+#: lucille/customizer/theme_customizer.php:104
+msgid "Sticky Menu Bar Background Color"
+msgstr ""
+
+#: lucille/customizer/theme_customizer.php:126
+msgid "Mobile Menu Background Color"
+msgstr ""
+
+#: lucille/customizer/theme_customizer.php:149
+msgid "Mobile Menu Border Bottom Color"
+msgstr ""
+
+#: lucille/customizer/theme_customizer.php:172
+msgid "Menu Text Color"
+msgstr ""
+
+#: lucille/customizer/theme_customizer.php:195
+msgid "Menu Text Color on Hover"
+msgstr ""
+
+#: lucille/customizer/theme_customizer.php:218
+msgid "Sub Menu Text Color"
+msgstr ""
+
+#: lucille/customizer/theme_customizer.php:241
+msgid "Sub Menu Text Color on Hover"
+msgstr ""
+
+#: lucille/customizer/theme_customizer.php:264
+msgid "Current Menu Item Text Color"
+msgstr ""
+
+#: lucille/customizer/theme_customizer.php:287
+msgid "Sub Menu Background Color"
+msgstr ""
+
+#: lucille/customizer/theme_customizer.php:309
+msgid "Creative Menu Overlay Color"
+msgstr ""
+
+#: lucille/customizer/theme_customizer.php:332
+msgid "Top Icons Color For Creative Menu"
+msgstr ""
+
+#: lucille/settings/theme_settings.php:87
+msgid "General Options"
+msgstr ""
+
+#: lucille/settings/theme_settings.php:94
+msgid "Social Options"
+msgstr ""
+
+#: lucille/settings/theme_settings.php:101
+msgid "Footer Options"
+msgstr ""
+
+#: lucille/settings/theme_settings.php:108
+msgid "Contact Options"
+msgstr ""
+
+#: lucille/settings/theme_settings.php:159
+msgid "Setup custom logo and favicon."
+msgstr ""
+
+#: lucille/settings/theme_settings.php:177
+msgid "Provide the URL to the social profiles you would like to display."
+msgstr ""
+
+#: lucille/settings/theme_settings.php:185
+msgid ""
+"Setup footer text for the copyright area, footer text URL and analytics "
+"code. Also setup the footer widget area."
+msgstr ""
+
+#: lucille/settings/theme_settings.php:193
+msgid "Please insert your contact information."
+msgstr ""
+
+#: lucille/settings/theme_settings.php:207
+msgid "Upload logo image"
+msgstr ""
+
+#: lucille/settings/theme_settings.php:212
+msgid "Upload custom favicon"
+msgstr ""
+
+#: lucille/settings/theme_settings.php:217
+msgid "Upload custom background image"
+msgstr ""
+
+#: lucille/settings/theme_settings.php:222
+msgid "Choose menu style"
+msgstr ""
+
+#: lucille/settings/theme_settings.php:227
+msgid "Choose header/footer width"
+msgstr ""
+
+#: lucille/settings/theme_settings.php:232
+msgid "Choose default color scheme"
+msgstr ""
+
+#: lucille/settings/theme_settings.php:237
+msgid "Enable sticky menu"
+msgstr ""
+
+#: lucille/settings/theme_settings.php:242
+msgid "Enable back to top button"
+msgstr ""
+
+#: lucille/settings/theme_settings.php:261
+msgid "Facebook URL"
+msgstr ""
+
+#: lucille/settings/theme_settings.php:266
+msgid "Twitter URL"
+msgstr ""
+
+#: lucille/settings/theme_settings.php:272
+msgid "Google+ URL"
+msgstr ""
+
+#: lucille/settings/theme_settings.php:277
+msgid "YouTube URL"
+msgstr ""
+
+#: lucille/settings/theme_settings.php:282
+msgid "SoundCloud URL"
+msgstr ""
+
+#: lucille/settings/theme_settings.php:288
+msgid "iTunes URL"
+msgstr ""
+
+#: lucille/settings/theme_settings.php:293
+msgid "Pinterest URL"
+msgstr ""
+
+#: lucille/settings/theme_settings.php:312
+msgid "Footer widgets color scheme"
+msgstr ""
+
+#: lucille/settings/theme_settings.php:317
+msgid "Footer widgets Background Image"
+msgstr ""
+
+#: lucille/settings/theme_settings.php:322
+msgid "Footer widgets color overlay"
+msgstr ""
+
+#: lucille/settings/theme_settings.php:327
+msgid "Copyright text"
+msgstr ""
+
+#: lucille/settings/theme_settings.php:332
+msgid "Copyrigth URL"
+msgstr ""
+
+#: lucille/settings/theme_settings.php:337
+msgid "Copyrigth Text Color Scheme"
+msgstr ""
+
+#: lucille/settings/theme_settings.php:342
+msgid "Copyrigth Text Background Color"
+msgstr ""
+
+#: lucille/settings/theme_settings.php:360
+msgid "Contact address"
+msgstr ""
+
+#: lucille/settings/theme_settings.php:365
+msgid "Contact phones"
+msgstr ""
+
+#: lucille/settings/theme_settings.php:370
+msgid "Contact Fax Number"
+msgstr ""
+
+#: lucille/settings/theme_settings.php:375
+msgid "Contact E-mail"
+msgstr ""
+
+#: lucille/settings/theme_settings.php:467
+msgid "Upload Logo"
+msgstr ""
+
+#: lucille/settings/theme_settings.php:468
+msgid "Remove Logo"
+msgstr ""
+
+#: lucille/settings/theme_settings.php:470
+msgid "Upload a custom logo image."
+msgstr ""
+
+#: lucille/settings/theme_settings.php:486
+msgid ""
+"Hi, your WordPress version is higher than 4.3 and allows you to use the "
+"built in WordPress functionality related to custom favicon."
+msgstr ""
+
+#: lucille/settings/theme_settings.php:488
+msgid ""
+"Please go to Appearance - Customize - Site Identity and choose the favicon "
+"from that place."
+msgstr ""
+
+#: lucille/settings/theme_settings.php:490
+msgid ""
+"For your WordPress version, the Upload custom favicon option will be "
+"ignored, the one from customizer will be used."
+msgstr ""
+
+#: lucille/settings/theme_settings.php:492
+msgid "This option exists only for backward compatibility reasons."
+msgstr ""
+
+#: lucille/settings/theme_settings.php:499
+msgid "Upload Favicon"
+msgstr ""
+
+#: lucille/settings/theme_settings.php:500
+msgid "Remove Favicon"
+msgstr ""
+
+#: lucille/settings/theme_settings.php:502
+msgid "Upload a custom favicon image."
+msgstr ""
+
+#: lucille/settings/theme_settings.php:516
+#: lucille/settings/theme_settings.php:730
+msgid "Upload Image"
+msgstr ""
+
+#: lucille/settings/theme_settings.php:517
+#: lucille/settings/theme_settings.php:731
+#: lucille-music-core/custom_meta_boxes.php:73
+#: lucille-music-core/custom_meta_boxes.php:197
+msgid "Remove Image"
+msgstr ""
+
+#: lucille/settings/theme_settings.php:519
+msgid "Upload a custom background image for inner pages."
+msgstr ""
+
+#: lucille/settings/theme_settings.php:535
+msgid "Creative Menu"
+msgstr ""
+
+#: lucille/settings/theme_settings.php:536
+msgid "Classic Menu"
+msgstr ""
+
+#: lucille/settings/theme_settings.php:537
+msgid "Centered Menu"
+msgstr ""
+
+#: lucille/settings/theme_settings.php:571
+#: lucille/settings/theme_settings.php:711
+#: lucille/settings/theme_settings.php:789
+#: lucille-music-core/visual_composer/add_remove_params.php:24
+msgid "White On Black"
+msgstr ""
+
+#: lucille/settings/theme_settings.php:572
+#: lucille/settings/theme_settings.php:712
+#: lucille/settings/theme_settings.php:790
+msgid "Black on White"
+msgstr ""
+
+#: lucille/settings/theme_settings.php:580
+msgid "Default color scheme used for the website content."
+msgstr ""
+
+#: lucille/settings/theme_settings.php:581
+msgid "Black On White - black text on white background."
+msgstr ""
+
+#: lucille/settings/theme_settings.php:582
+msgid "White On Black - white text on black background."
+msgstr ""
+
+#: lucille/settings/theme_settings.php:583
+msgid ""
+"If you change this value, you might need to change the background color or "
+"image for your website according to the color scheme."
+msgstr ""
+
+#: lucille/settings/theme_settings.php:584
+msgid ""
+"You can change the background color for your website from Appearance - "
+"Customize - Colors."
+msgstr ""
+
+#: lucille/settings/theme_settings.php:597
+#: lucille/settings/theme_settings.php:619
+msgid "Enabled"
+msgstr ""
+
+#: lucille/settings/theme_settings.php:598
+#: lucille/settings/theme_settings.php:620
+msgid "Disabled"
+msgstr ""
+
+#: lucille/settings/theme_settings.php:605
+msgid ""
+"Enable or disable sticky menu bar. If enabled, menu will stay on top whyle "
+"the user moves the scrollbar."
+msgstr ""
+
+#: lucille/settings/theme_settings.php:627
+msgid "Enable or disable back to top button."
+msgstr ""
+
+#: lucille/settings/theme_settings.php:720
+msgid "Color scheme used for footer widgets text."
+msgstr ""
+
+#: lucille/settings/theme_settings.php:733
+msgid "Upload a custom background image for the footer widgets area."
+msgstr ""
+
+#: lucille/settings/theme_settings.php:754
+msgid ""
+"Color overlay for the footer widgets area. Can be used as background color "
+"or as color over the background image."
+msgstr ""
+
+#: lucille/settings/theme_settings.php:799
+msgid "Color scheme used for footer copyrigth text."
+msgstr ""
+
+#: lucille/settings/theme_settings.php:816
+msgid "Background color for the copyright text area."
+msgstr ""
+
+#: lucille/settings/theme_settings.php:851
+msgid "This is the email address shown on contact page."
+msgstr ""
+
+#: lucille/settings/theme_settings.php:853
+msgid ""
+"To set the recipient email for the contact form, please go to Settings - "
+"Lucille Music Core Settings."
+msgstr ""
+
+#: lucille/views/heading_area.php:16
+msgid "404 - Page not found"
+msgstr ""
+
+#: lucille/views/heading_area.php:17
+msgid "OOPS!"
+msgstr ""
+
+#: lucille/views/heading_area.php:80
+msgid "Author: "
+msgstr ""
+
+#: lucille/views/heading_area.php:92
+msgid "Blog"
+msgstr ""
+
+#: lucille/views/archive/post_item_grid.php:14
+#: lucille/views/archive/post_item_masonry.php:21
+#: lucille/views/archive/post_item_standard.php:33
+#: lucille-music-core/visual_composer/add_shortcodes.php:717
+msgid "Read more"
+msgstr ""
+
+#: lucille/views/archive/post_item_grid.php:19
+#: lucille/views/archive/post_item_masonry.php:26
+msgid "Watch video"
+msgstr ""
+
+#: lucille/views/archive/post_item_grid.php:23
+#: lucille/views/archive/post_item_masonry.php:30
+msgid "View gallery"
+msgstr ""
+
+#: lucille/views/archive/post_item_grid.php:49
+#: lucille/views/archive/post_item_masonry.php:63
+#: lucille/views/archive/post_item_standard.php:16
+#: lucille/views/utils/post_meta.php:17
+#: lucille-music-core/visual_composer/add_shortcodes.php:757
+msgid "by"
+msgstr ""
+
+#: lucille/views/archive/post_item_grid.php:57
+#: lucille/views/archive/post_item_masonry.php:74
+#: lucille/views/archive/post_item_standard.php:21
+#: lucille/views/utils/post_meta.php:23
+#: lucille-music-core/visual_composer/add_shortcodes.php:765
+msgid "in&nbsp;"
+msgstr ""
+
+#: lucille/views/archive/post_item_standard.php:15
+msgid "Posted at&nbsp;"
+msgstr ""
+
+#: lucille/views/single/album_single.php:67
+msgid "Producer:"
+msgstr ""
+
+#: lucille/views/single/album_single.php:75
+msgid "Number of discs:"
+msgstr ""
+
+#: lucille/views/single/default_single.php:14
+msgid "Pages:"
+msgstr ""
+
+#: lucille/views/single/default_single.php:19
+msgid "Next page"
+msgstr ""
+
+#: lucille/views/single/default_single.php:20
+msgid "Previous page"
+msgstr ""
+
+#: lucille/views/single/event_single.php:46
+#: lucille-music-core/visual_composer/add_shortcodes.php:448
+msgid "Tickets"
+msgstr ""
+
+#: lucille/views/single/event_single.php:50
+msgid "Facebook Event "
+msgstr ""
+
+#: lucille/views/utils/ajax_contact_form.php:6
+#: lucille-music-core/visual_composer/add_shortcodes.php:513
+msgid "Name "
+msgstr ""
+
+#: lucille/views/utils/ajax_contact_form.php:7
+#: lucille-music-core/visual_composer/add_shortcodes.php:514
+msgid "Please enter your name"
+msgstr ""
+
+#: lucille/views/utils/ajax_contact_form.php:11
+#: lucille-music-core/visual_composer/add_shortcodes.php:518
+msgid "Email "
+msgstr ""
+
+#: lucille/views/utils/ajax_contact_form.php:12
+#: lucille-music-core/visual_composer/add_shortcodes.php:519
+msgid "Please enter a correct email address"
+msgstr ""
+
+#: lucille/views/utils/ajax_contact_form.php:16
+#: lucille-music-core/visual_composer/add_shortcodes.php:523
+msgid "Phone "
+msgstr ""
+
+#: lucille/views/utils/ajax_contact_form.php:20
+#: lucille-music-core/visual_composer/add_shortcodes.php:527
+msgid "Message "
+msgstr ""
+
+#: lucille/views/utils/ajax_contact_form.php:21
+#: lucille-music-core/visual_composer/add_shortcodes.php:528
+msgid "Please enter a message"
+msgstr ""
+
+#: lucille/views/utils/ajax_contact_form.php:32
+#: lucille-music-core/visual_composer/add_shortcodes.php:539
+msgid ""
+"Cannot send mail, an error occurred while delivering this message. Please "
+"try again later."
+msgstr ""
+
+#: lucille/views/utils/ajax_contact_form.php:36
+#: lucille-music-core/visual_composer/add_shortcodes.php:543
+msgid "Your message was sent successfully. Thanks!"
+msgstr ""
+
+#: lucille/views/utils/ajax_contact_form.php:40
+#: lucille-music-core/visual_composer/add_shortcodes.php:547
+msgid "Send Email"
+msgstr ""
+
+#: lucille/views/utils/sharing_icons.php:14
+msgid "Share:"
+msgstr ""
+
+#: lucille-music-core/ajax_binding.php:39
+msgid "Please enter a message."
+msgstr ""
+
+#: lucille-music-core/ajax_binding.php:52
+msgid "New contact form message from your website "
+msgstr ""
+
+#: lucille-music-core/ajax_binding.php:54
+msgid "Contact Phone: "
+msgstr ""
+
+#: lucille-music-core/albums.php:15
+msgid "Albums"
+msgstr ""
+
+#: lucille-music-core/albums.php:16
+msgid "Album"
+msgstr ""
+
+#: lucille-music-core/albums.php:17 lucille-music-core/albums.php:18
+msgid "Add New Album"
+msgstr ""
+
+#: lucille-music-core/albums.php:19 lucille-music-core/events.php:18
+#: lucille-music-core/photo_albums.php:18 lucille-music-core/videos.php:18
+msgid "Edit"
+msgstr ""
+
+#: lucille-music-core/albums.php:20
+msgid "Edit Album"
+msgstr ""
+
+#: lucille-music-core/albums.php:21
+msgid "New Album"
+msgstr ""
+
+#: lucille-music-core/albums.php:22 lucille-music-core/events.php:21
+#: lucille-music-core/photo_albums.php:21 lucille-music-core/videos.php:21
+msgid "View"
+msgstr ""
+
+#: lucille-music-core/albums.php:23
+msgid "View Album"
+msgstr ""
+
+#: lucille-music-core/albums.php:24
+msgid "Search Albums"
+msgstr ""
+
+#: lucille-music-core/albums.php:25
+msgid "No Album Found"
+msgstr ""
+
+#: lucille-music-core/albums.php:26
+msgid "No Album Found in Trash"
+msgstr ""
+
+#: lucille-music-core/albums.php:27
+msgid "Parent Album"
+msgstr ""
+
+#: lucille-music-core/albums.php:51
+msgid "Album Settings"
+msgstr ""
+
+#: lucille-music-core/albums.php:60
+msgid "Song List"
+msgstr ""
+
+#: lucille-music-core/albums.php:110
+msgid "Artist/Band"
+msgstr ""
+
+#: lucille-music-core/albums.php:112
+msgid "Artist/Band Name"
+msgstr ""
+
+#: lucille-music-core/albums.php:116
+msgid "Release Date"
+msgstr ""
+
+#: lucille-music-core/albums.php:118
+msgid "Album Release Date YYYY/MM/DD"
+msgstr ""
+
+#: lucille-music-core/albums.php:122
+msgid "Number of Discs"
+msgstr ""
+
+#: lucille-music-core/albums.php:124
+msgid "Number of Discs  1/2/3..."
+msgstr ""
+
+#: lucille-music-core/albums.php:128 lucille-music-core/albums.php:465
+msgid "Label"
+msgstr ""
+
+#: lucille-music-core/albums.php:130
+msgid "Record Label - like - Chess Records"
+msgstr ""
+
+#: lucille-music-core/albums.php:134 lucille-music-core/albums.php:466
+msgid "Producer"
+msgstr ""
+
+#: lucille-music-core/albums.php:136
+msgid "Album Producer - like - Bob Rock"
+msgstr ""
+
+#: lucille-music-core/albums.php:140
+msgid "Catalogue Number"
+msgstr ""
+
+#: lucille-music-core/albums.php:142
+msgid "Catalogue Number - like - 650001"
+msgstr ""
+
+#: lucille-music-core/albums.php:146
+msgid "Youtube Promo URL"
+msgstr ""
+
+#: lucille-music-core/albums.php:148
+msgid "Youtube URL - like - http://youtu.be/jUk-5nsGedM "
+msgstr ""
+
+#: lucille-music-core/albums.php:152
+msgid "Vimeo Promo URL"
+msgstr ""
+
+#: lucille-music-core/albums.php:154
+msgid "Vimeo URL - like - http://vimeo.com/8119784 "
+msgstr ""
+
+#: lucille-music-core/albums.php:159 lucille-music-core/albums.php:172
+#: lucille-music-core/albums.php:185 lucille-music-core/albums.php:198
+#: lucille-music-core/albums.php:211 lucille-music-core/albums.php:224
+msgid "Buy Message"
+msgstr ""
+
+#: lucille-music-core/albums.php:161
+msgid "Buy Message - like - Buy It from Amazon"
+msgstr ""
+
+#: lucille-music-core/albums.php:165 lucille-music-core/albums.php:178
+#: lucille-music-core/albums.php:191 lucille-music-core/albums.php:204
+#: lucille-music-core/albums.php:217 lucille-music-core/albums.php:230
+msgid "Buy URL"
+msgstr ""
+
+#: lucille-music-core/albums.php:167
+msgid ""
+"Buy URL - like - http://www.amazon.com/Old-Sock-Eric-Clapton/dp/B00B23O96A/"
+"ref=ntt_mus_ep_dpi_1 "
+msgstr ""
+
+#: lucille-music-core/albums.php:174
+msgid "Buy Message - like - Buy It from iTunes"
+msgstr ""
+
+#: lucille-music-core/albums.php:180
+msgid ""
+"Buy URL - like - https://itunes.apple.com/us/album/living-proof/id394442693 "
+msgstr ""
+
+#: lucille-music-core/albums.php:187
+msgid "Buy Message - like - Buy It from SoundCloud"
+msgstr ""
+
+#: lucille-music-core/albums.php:193
+msgid ""
+"Buy URL - like - http://www.last.fm/music/Radiohead/1995-06-01:+Tramps,+New"
+"+York,+NY,+USA "
+msgstr ""
+
+#: lucille-music-core/albums.php:200
+msgid "Buy Message - like - Buy It from eBay"
+msgstr ""
+
+#: lucille-music-core/albums.php:206 lucille-music-core/albums.php:219
+#: lucille-music-core/albums.php:232
+msgid "Buy URL - like - http://www.ebay.com/soc/itm/330938741705 "
+msgstr ""
+
+#: lucille-music-core/albums.php:213 lucille-music-core/albums.php:226
+msgid "Buy Message - like - Buy It from Google Play"
+msgstr ""
+
+#: lucille-music-core/albums.php:237
+msgid "SoundCloud"
+msgstr ""
+
+#: lucille-music-core/albums.php:250
+msgid ""
+"SoundCloud Embed URL - If this field is filled, it will be shown instead of "
+"the uploaded media"
+msgstr ""
+
+#: lucille-music-core/albums.php:463 lucille-music-core/events.php:227
+msgid "Album Title"
+msgstr ""
+
+#: lucille-music-core/albums.php:464
+msgid "Album Artist"
+msgstr ""
+
+#: lucille-music-core/albums.php:467 lucille-music-core/events.php:231
+#: lucille-music-core/photo_albums.php:249 lucille-music-core/videos.php:121
+msgid "Author"
+msgstr ""
+
+#: lucille-music-core/albums.php:468 lucille-music-core/events.php:228
+#: lucille-music-core/events.php:232 lucille-music-core/photo_albums.php:250
+#: lucille-music-core/videos.php:122
+msgid "Date"
+msgstr ""
+
+#: lucille-music-core/albums.php:539
+msgid "Album Categories"
+msgstr ""
+
+#: lucille-music-core/albums.php:540
+msgid "Album Category"
+msgstr ""
+
+#: lucille-music-core/albums.php:541
+msgid "Search Album Categories"
+msgstr ""
+
+#: lucille-music-core/albums.php:542
+msgid "All Album Categories"
+msgstr ""
+
+#: lucille-music-core/albums.php:543
+msgid "Parent Album Category"
+msgstr ""
+
+#: lucille-music-core/albums.php:544
+msgid "Parent Album Category:"
+msgstr ""
+
+#: lucille-music-core/albums.php:545
+msgid "Edit Album Category"
+msgstr ""
+
+#: lucille-music-core/albums.php:546
+msgid "Update Album Category"
+msgstr ""
+
+#: lucille-music-core/albums.php:547
+msgid "Add New Album Category"
+msgstr ""
+
+#: lucille-music-core/albums.php:548
+msgid "New Album Category"
+msgstr ""
+
+#: lucille-music-core/custom_meta_boxes.php:13
+msgid "Page Settings"
+msgstr ""
+
+#: lucille-music-core/custom_meta_boxes.php:19
+msgid "Header Settings"
+msgstr ""
+
+#: lucille-music-core/custom_meta_boxes.php:32
+msgid "Archive And Blog Settings"
+msgstr ""
+
+#: lucille-music-core/custom_meta_boxes.php:68
+msgid "Choose custom page background image:"
+msgstr ""
+
+#: lucille-music-core/custom_meta_boxes.php:72
+#: lucille-music-core/custom_meta_boxes.php:196
+msgid "Choose Image"
+msgstr ""
+
+#: lucille-music-core/custom_meta_boxes.php:81
+msgid "Page background color overlay:"
+msgstr ""
+
+#: lucille-music-core/custom_meta_boxes.php:87
+msgid "Remove footer widgets area for this page:"
+msgstr ""
+
+#: lucille-music-core/custom_meta_boxes.php:135
+msgid "Subtitle &amp; Text Color"
+msgstr ""
+
+#: lucille-music-core/custom_meta_boxes.php:138
+msgid "Page subtitle:"
+msgstr ""
+
+#: lucille-music-core/custom_meta_boxes.php:145
+msgid "Color Scheme:"
+msgstr ""
+
+#: lucille-music-core/custom_meta_boxes.php:166
+msgid "Heading style:"
+msgstr ""
+
+#: lucille-music-core/custom_meta_boxes.php:184
+msgid "If the subtitle is not present, heading style is ignored."
+msgstr ""
+
+#: lucille-music-core/custom_meta_boxes.php:189
+msgid "Background"
+msgstr ""
+
+#: lucille-music-core/custom_meta_boxes.php:194
+msgid "Background image:"
+msgstr ""
+
+#: lucille-music-core/custom_meta_boxes.php:207
+msgid "Background color overlay:"
+msgstr ""
+
+#: lucille-music-core/custom_meta_boxes.php:254
+msgid ""
+"Choose blog or archive page layout. Applies on the following page templates: "
+"Blog"
+msgstr ""
+
+#: lucille-music-core/events.php:14 lucille-music-core/events.php:15
+msgid "Events"
+msgstr ""
+
+#: lucille-music-core/events.php:16 lucille-music-core/events.php:17
+msgid "Add New Event"
+msgstr ""
+
+#: lucille-music-core/events.php:19
+msgid "Edit Event"
+msgstr ""
+
+#: lucille-music-core/events.php:20
+msgid "New Event"
+msgstr ""
+
+#: lucille-music-core/events.php:22
+msgid "View Event"
+msgstr ""
+
+#: lucille-music-core/events.php:23
+msgid "Search Events"
+msgstr ""
+
+#: lucille-music-core/events.php:24
+msgid "No Event Found"
+msgstr ""
+
+#: lucille-music-core/events.php:25
+msgid "No Event Found in Trash"
+msgstr ""
+
+#: lucille-music-core/events.php:26
+msgid "Parent Event"
+msgstr ""
+
+#: lucille-music-core/events.php:49
+msgid "Event Settings"
+msgstr ""
+
+#: lucille-music-core/events.php:76
+msgid "Event Date"
+msgstr ""
+
+#: lucille-music-core/events.php:78
+msgid "The Date for Event YYYY/MM/DD"
+msgstr ""
+
+#: lucille-music-core/events.php:82
+msgid "Event Time"
+msgstr ""
+
+#: lucille-music-core/events.php:84
+msgid "Event Time hh:mm"
+msgstr ""
+
+#: lucille-music-core/events.php:88
+msgid "Event Venue"
+msgstr ""
+
+#: lucille-music-core/events.php:90
+msgid "Venue ex. Glastonbury Festival"
+msgstr ""
+
+#: lucille-music-core/events.php:94
+msgid "Venue URL"
+msgstr ""
+
+#: lucille-music-core/events.php:96
+msgid "Venue URL ex. http://www.glastonburyfestivals.co.uk/"
+msgstr ""
+
+#: lucille-music-core/events.php:101 lucille-music-core/events.php:229
+msgid "Location"
+msgstr ""
+
+#: lucille-music-core/events.php:103
+msgid "Event Location ex. Worthy Farm, Pilton GB"
+msgstr ""
+
+#: lucille-music-core/events.php:108
+msgid "Buy Tickets Message"
+msgstr ""
+
+#: lucille-music-core/events.php:110
+msgid "ex. Buy Tickets From ..."
+msgstr ""
+
+#: lucille-music-core/events.php:114
+msgid "Buy Tickets URL"
+msgstr ""
+
+#: lucille-music-core/events.php:116
+msgid "ex. http://www.ticketmaster.com/"
+msgstr ""
+
+#: lucille-music-core/events.php:120
+msgid "Facebook Event Message"
+msgstr ""
+
+#: lucille-music-core/events.php:122
+msgid "ex. Check event on Facebook"
+msgstr ""
+
+#: lucille-music-core/events.php:126
+msgid "Facebook Event URL"
+msgstr ""
+
+#: lucille-music-core/events.php:128
+msgid "URL to Facebook Event Page"
+msgstr ""
+
+#: lucille-music-core/events.php:132
+msgid "Google Map Embed Code"
+msgstr ""
+
+#: lucille-music-core/events.php:146
+msgid ""
+"Embedded code ex. &lt;iframe src=\"https://www.google.com/maps/embed?pb=..\" "
+"&gt;&lt;/iframe&gt;"
+msgstr ""
+
+#: lucille-music-core/events.php:150 lucille-music-core/videos.php:70
+#: lucille-music-core/videos.php:119
+msgid "Youtube URL"
+msgstr ""
+
+#: lucille-music-core/events.php:152
+msgid "URL to Promo Video on Youtube"
+msgstr ""
+
+#: lucille-music-core/events.php:156 lucille-music-core/videos.php:76
+#: lucille-music-core/videos.php:120
+msgid "Vimeo URL"
+msgstr ""
+
+#: lucille-music-core/events.php:158
+msgid "URL to Promo Video on Vimeo"
+msgstr ""
+
+#: lucille-music-core/events.php:230
+msgid "Venue"
+msgstr ""
+
+#: lucille-music-core/events.php:284
+msgid "Event Categories"
+msgstr ""
+
+#: lucille-music-core/events.php:285
+msgid "Event Category"
+msgstr ""
+
+#: lucille-music-core/events.php:286
+msgid "Search Event Categories"
+msgstr ""
+
+#: lucille-music-core/events.php:287
+msgid "All Event Categories"
+msgstr ""
+
+#: lucille-music-core/events.php:288
+msgid "Parent Event Category"
+msgstr ""
+
+#: lucille-music-core/events.php:289
+msgid "Parent Event Category:"
+msgstr ""
+
+#: lucille-music-core/events.php:290
+msgid "Edit Event Category"
+msgstr ""
+
+#: lucille-music-core/events.php:291
+msgid "Update Event Category"
+msgstr ""
+
+#: lucille-music-core/events.php:292
+msgid "Add New Event Category"
+msgstr ""
+
+#: lucille-music-core/events.php:293
+msgid "New Event Category"
+msgstr ""
+
+#: lucille-music-core/lmc_plugin_settings.php:57
+msgid "Lucille Plugin Settings"
+msgstr ""
+
+#: lucille-music-core/lmc_plugin_settings.php:74
+msgid "Event Post Type Slug"
+msgstr ""
+
+#: lucille-music-core/lmc_plugin_settings.php:82
+msgid "Photo Album Post Type Slug"
+msgstr ""
+
+#: lucille-music-core/lmc_plugin_settings.php:90
+msgid "Video Post Type Slug"
+msgstr ""
+
+#: lucille-music-core/lmc_plugin_settings.php:98
+msgid "Audio Post Type Slug"
+msgstr ""
+
+#: lucille-music-core/lmc_plugin_settings.php:109
+msgid "Event Category Slug"
+msgstr ""
+
+#: lucille-music-core/lmc_plugin_settings.php:117
+msgid "Photo Album Category Slug"
+msgstr ""
+
+#: lucille-music-core/lmc_plugin_settings.php:125
+msgid "Video Category Slug"
+msgstr ""
+
+#: lucille-music-core/lmc_plugin_settings.php:133
+msgid "Album Category Slug"
+msgstr ""
+
+#: lucille-music-core/lmc_plugin_settings.php:141
+msgid "Contact Form E-mail"
+msgstr ""
+
+#: lucille-music-core/lmc_plugin_settings.php:156
+msgid ""
+"Set up the slugs for custom post types and the contact form recipiend email "
+"address."
+msgstr ""
+
+#: lucille-music-core/lmc_plugin_settings.php:263
+msgid "This is the recipient email address for the contact form."
+msgstr ""
+
+#: lucille-music-core/lucille_widgets.php:7
+msgid "Recent Posts With Images"
+msgstr ""
+
+#: lucille-music-core/lucille_widgets.php:89
+msgid "Latest News"
+msgstr ""
+
+#: lucille-music-core/lucille_widgets.php:94
+#: lucille-music-core/lucille_widgets.php:237
+msgid "Title:"
+msgstr ""
+
+#: lucille-music-core/lucille_widgets.php:97
+#: lucille-music-core/lucille_widgets.php:240
+msgid "Number of posts:"
+msgstr ""
+
+#: lucille-music-core/lucille_widgets.php:129
+msgid "Shows The Next Events"
+msgstr ""
+
+#: lucille-music-core/lucille_widgets.php:232
+msgid "Upcoming Events"
+msgstr ""
+
+#: lucille-music-core/photo_albums.php:14
+msgid "Photo Albums"
+msgstr ""
+
+#: lucille-music-core/photo_albums.php:15
+msgid "Photo Album"
+msgstr ""
+
+#: lucille-music-core/photo_albums.php:16
+#: lucille-music-core/photo_albums.php:17
+msgid "Add New Photo Album"
+msgstr ""
+
+#: lucille-music-core/photo_albums.php:19
+msgid "Edit Photo Album"
+msgstr ""
+
+#: lucille-music-core/photo_albums.php:20
+msgid "New Photo Album"
+msgstr ""
+
+#: lucille-music-core/photo_albums.php:22
+msgid "View Photo Album"
+msgstr ""
+
+#: lucille-music-core/photo_albums.php:23
+msgid "Search Photo Albums"
+msgstr ""
+
+#: lucille-music-core/photo_albums.php:24
+msgid "No Photo Albums found"
+msgstr ""
+
+#: lucille-music-core/photo_albums.php:25
+msgid "No Photo Albums Found in Trash"
+msgstr ""
+
+#: lucille-music-core/photo_albums.php:26
+msgid "Parent Photo Album"
+msgstr ""
+
+#: lucille-music-core/photo_albums.php:47
+msgid "Image Gallery"
+msgstr ""
+
+#: lucille-music-core/photo_albums.php:103
+msgid "Add Images To Gallery"
+msgstr ""
+
+#: lucille-music-core/photo_albums.php:248
+msgid "Photo Album Title"
+msgstr ""
+
+#: lucille-music-core/photo_albums.php:287
+msgid "Photo Album Categories"
+msgstr ""
+
+#: lucille-music-core/photo_albums.php:288
+msgid "Photo Album Category"
+msgstr ""
+
+#: lucille-music-core/photo_albums.php:289
+msgid "Search Photo Album Categories"
+msgstr ""
+
+#: lucille-music-core/photo_albums.php:290
+msgid "All Photo Album Categories"
+msgstr ""
+
+#: lucille-music-core/photo_albums.php:291
+msgid "Parent Photo Album Category"
+msgstr ""
+
+#: lucille-music-core/photo_albums.php:292
+msgid "Parent Photo Album Category:"
+msgstr ""
+
+#: lucille-music-core/photo_albums.php:293
+msgid "Edit Photo Album Category"
+msgstr ""
+
+#: lucille-music-core/photo_albums.php:294
+msgid "Update Photo Album Category"
+msgstr ""
+
+#: lucille-music-core/photo_albums.php:295
+msgid "Add New Photo Album Category"
+msgstr ""
+
+#: lucille-music-core/photo_albums.php:296
+msgid "New Photo Album Category"
+msgstr ""
+
+#: lucille-music-core/videos.php:14
+msgid "Videos"
+msgstr ""
+
+#: lucille-music-core/videos.php:15
+msgid "Video"
+msgstr ""
+
+#: lucille-music-core/videos.php:16 lucille-music-core/videos.php:17
+msgid "Add New Video"
+msgstr ""
+
+#: lucille-music-core/videos.php:19
+msgid "Edit Video"
+msgstr ""
+
+#: lucille-music-core/videos.php:20
+msgid "New Video"
+msgstr ""
+
+#: lucille-music-core/videos.php:22
+msgid "View Video"
+msgstr ""
+
+#: lucille-music-core/videos.php:23
+msgid "Search Videos"
+msgstr ""
+
+#: lucille-music-core/videos.php:24
+msgid "No Videos Found"
+msgstr ""
+
+#: lucille-music-core/videos.php:25
+msgid "No Videos Found in Trash"
+msgstr ""
+
+#: lucille-music-core/videos.php:26
+msgid "Parent Video"
+msgstr ""
+
+#: lucille-music-core/videos.php:48
+msgid "Video Custom Settings"
+msgstr ""
+
+#: lucille-music-core/videos.php:72
+msgid "Youtube short url like - http://youtu.be/jUk-5nsGedM ."
+msgstr ""
+
+#: lucille-music-core/videos.php:78
+msgid "Vimeo short url like - http://vimeo.com/8119784 ."
+msgstr ""
+
+#: lucille-music-core/videos.php:118
+msgid "Video Title"
+msgstr ""
+
+#: lucille-music-core/videos.php:185
+msgid "Video Categories"
+msgstr ""
+
+#: lucille-music-core/videos.php:186
+msgid "Video Category"
+msgstr ""
+
+#: lucille-music-core/videos.php:187
+msgid "Search Video Categories"
+msgstr ""
+
+#: lucille-music-core/videos.php:188
+msgid "All Video Categories"
+msgstr ""
+
+#: lucille-music-core/videos.php:189
+msgid "Parent Video Category"
+msgstr ""
+
+#: lucille-music-core/videos.php:190
+msgid "Parent Video Category:"
+msgstr ""
+
+#: lucille-music-core/videos.php:191
+msgid "Edit Video Category"
+msgstr ""
+
+#: lucille-music-core/videos.php:192
+msgid "Update Video Category"
+msgstr ""
+
+#: lucille-music-core/videos.php:193
+msgid "Add New Video Category"
+msgstr ""
+
+#: lucille-music-core/videos.php:194
+msgid "New Video Category"
+msgstr ""
+
+#: lucille-music-core/visual_composer/add_remove_params.php:11
+msgid "Color Overlay"
+msgstr ""
+
+#: lucille-music-core/visual_composer/add_remove_params.php:14
+msgid "Use a color overlay over the background image"
+msgstr ""
+
+#: lucille-music-core/visual_composer/add_remove_params.php:20
+msgid "Color Scheme"
+msgstr ""
+
+#: lucille-music-core/visual_composer/add_remove_params.php:23
+msgid "Theme Settings Default"
+msgstr ""
+
+#: lucille-music-core/visual_composer/add_remove_params.php:25
+msgid "Black On White"
+msgstr ""
+
+#: lucille-music-core/visual_composer/add_remove_params.php:27
+msgid ""
+"Add a custom color scheme that will overwrite the option in Appearance - "
+"Lucille Settings - General. This is an option added by Lucille theme"
+msgstr ""
+
+#: lucille-music-core/visual_composer/add_shortcodes.php:451
+msgid "Coming Soon"
+msgstr ""
+
+#: lucille-music-core/visual_composer/vc_map.php:15
+msgid "Gallery"
+msgstr ""
+
+#: lucille-music-core/visual_composer/vc_map.php:18
+#: lucille-music-core/visual_composer/vc_map.php:88
+#: lucille-music-core/visual_composer/vc_map.php:121
+#: lucille-music-core/visual_composer/vc_map.php:190
+#: lucille-music-core/visual_composer/vc_map.php:216
+#: lucille-music-core/visual_composer/vc_map.php:258
+#: lucille-music-core/visual_composer/vc_map.php:288
+#: lucille-music-core/visual_composer/vc_map.php:356
+#: lucille-music-core/visual_composer/vc_map.php:441
+#: lucille-music-core/visual_composer/vc_map.php:467
+msgid "Lucille Elements"
+msgstr ""
+
+#: lucille-music-core/visual_composer/vc_map.php:23
+msgid "Row height in pixels"
+msgstr ""
+
+#: lucille-music-core/visual_composer/vc_map.php:26
+msgid "Row height in pixels. Digits only. Default value: 180"
+msgstr ""
+
+#: lucille-music-core/visual_composer/vc_map.php:31
+#: lucille-music-core/visual_composer/vc_map.php:221
+msgid "View all text message"
+msgstr ""
+
+#: lucille-music-core/visual_composer/vc_map.php:34
+msgid "View all text message. If empty, default value is: View All Images"
+msgstr ""
+
+#: lucille-music-core/visual_composer/vc_map.php:39
+msgid "Gallery Page URL"
+msgstr ""
+
+#: lucille-music-core/visual_composer/vc_map.php:42
+msgid "URL to all Photo Gallery page."
+msgstr ""
+
+#: lucille-music-core/visual_composer/vc_map.php:47
+msgid "Add images"
+msgstr ""
+
+#: lucille-music-core/visual_composer/vc_map.php:50
+msgid "Add your images here"
+msgstr ""
+
+#: lucille-music-core/visual_composer/vc_map.php:85
+msgid "Featured Music Album"
+msgstr ""
+
+#: lucille-music-core/visual_composer/vc_map.php:93
+msgid "Select Album"
+msgstr ""
+
+#: lucille-music-core/visual_composer/vc_map.php:96
+msgid "Select The Album You Want To Promote"
+msgstr ""
+
+#: lucille-music-core/visual_composer/vc_map.php:101
+msgid "Short Album Description"
+msgstr ""
+
+#: lucille-music-core/visual_composer/vc_map.php:104
+msgid "Please add the album description."
+msgstr ""
+
+#: lucille-music-core/visual_composer/vc_map.php:118
+msgid "Latest Music Albums"
+msgstr ""
+
+#: lucille-music-core/visual_composer/vc_map.php:126
+msgid "View more text message"
+msgstr ""
+
+#: lucille-music-core/visual_composer/vc_map.php:129
+msgid "View all text message. If empty, default value is: View More"
+msgstr ""
+
+#: lucille-music-core/visual_composer/vc_map.php:134
+msgid "Discography Page URL"
+msgstr ""
+
+#: lucille-music-core/visual_composer/vc_map.php:137
+msgid "URL to Discography page."
+msgstr ""
+
+#: lucille-music-core/visual_composer/vc_map.php:142
+msgid "Number of Albums To Show"
+msgstr ""
+
+#: lucille-music-core/visual_composer/vc_map.php:145
+msgid "Number of Albums Displayed. Default value: 3."
+msgstr ""
+
+#: lucille-music-core/visual_composer/vc_map.php:187
+msgid "Featured Video"
+msgstr ""
+
+#: lucille-music-core/visual_composer/vc_map.php:195
+msgid "Choose Video"
+msgstr ""
+
+#: lucille-music-core/visual_composer/vc_map.php:198
+msgid "Choose Featured Video"
+msgstr ""
+
+#: lucille-music-core/visual_composer/vc_map.php:213
+msgid "Next Events"
+msgstr ""
+
+#: lucille-music-core/visual_composer/vc_map.php:224
+msgid "View all text message. If empty, default value is: View All Events"
+msgstr ""
+
+#: lucille-music-core/visual_composer/vc_map.php:229
+msgid "Events Page URL"
+msgstr ""
+
+#: lucille-music-core/visual_composer/vc_map.php:232
+msgid "URL to Events page."
+msgstr ""
+
+#: lucille-music-core/visual_composer/vc_map.php:237
+msgid "Number of Events"
+msgstr ""
+
+#: lucille-music-core/visual_composer/vc_map.php:240
+msgid "Number of Events Displayed. Default value: 5."
+msgstr ""
+
+#: lucille-music-core/visual_composer/vc_map.php:255
+msgid "Ajax Contact Form"
+msgstr ""
+
+#: lucille-music-core/visual_composer/vc_map.php:263
+msgid "Input Styling"
+msgstr ""
+
+#: lucille-music-core/visual_composer/vc_map.php:269
+msgid "Choose how to render the input fields"
+msgstr ""
+
+#: lucille-music-core/visual_composer/vc_map.php:285
+msgid "Section Heading"
+msgstr ""
+
+#: lucille-music-core/visual_composer/vc_map.php:293
+msgid "Title"
+msgstr ""
+
+#: lucille-music-core/visual_composer/vc_map.php:296
+msgid ""
+"Section title - use &lt;span class=&quot;lc_vibrant_color&quot;&gt;some "
+"colored text&lt;/span&gt; to color one or more words in vibrant color."
+msgstr ""
+
+#: lucille-music-core/visual_composer/vc_map.php:301
+msgid "Title transform"
+msgstr ""
+
+#: lucille-music-core/visual_composer/vc_map.php:307
+msgid "Make section title uppercase"
+msgstr ""
+
+#: lucille-music-core/visual_composer/vc_map.php:312
+msgid "Subtitle"
+msgstr ""
+
+#: lucille-music-core/visual_composer/vc_map.php:315
+msgid ""
+"Section subtitle (optional) - use &lt;span class=&quot;lc_vibrant_color&quot;"
+"&gt;some colored text&lt;/span&gt; to color one or more words in vibrant "
+"color."
+msgstr ""
+
+#: lucille-music-core/visual_composer/vc_map.php:320
+msgid "Subtitle transform"
+msgstr ""
+
+#: lucille-music-core/visual_composer/vc_map.php:326
+#: lucille-music-core/visual_composer/vc_map.php:338
+msgid "Make section subtitle uppercase"
+msgstr ""
+
+#: lucille-music-core/visual_composer/vc_map.php:331
+msgid "Text align"
+msgstr ""
+
+#: lucille-music-core/visual_composer/vc_map.php:353
+msgid "Lucille Button"
+msgstr ""
+
+#: lucille-music-core/visual_composer/vc_map.php:361
+msgid "Button Text"
+msgstr ""
+
+#: lucille-music-core/visual_composer/vc_map.php:364
+msgid "Text shown on Button"
+msgstr ""
+
+#: lucille-music-core/visual_composer/vc_map.php:369
+msgid "Button URL"
+msgstr ""
+
+#: lucille-music-core/visual_composer/vc_map.php:372
+msgid "URL for this button"
+msgstr ""
+
+#: lucille-music-core/visual_composer/vc_map.php:377
+msgid "Button Align"
+msgstr ""
+
+#: lucille-music-core/visual_composer/vc_map.php:384
+msgid "Button alignment"
+msgstr ""
+
+#: lucille-music-core/visual_composer/vc_map.php:399
+msgid "User Review"
+msgstr ""
+
+#: lucille-music-core/visual_composer/vc_map.php:408
+#: lucille-music-core/visual_composer/vc_map.php:411
+msgid "Reviewer Name"
+msgstr ""
+
+#: lucille-music-core/visual_composer/vc_map.php:416
+msgid "Reviewer Image"
+msgstr ""
+
+#: lucille-music-core/visual_composer/vc_map.php:419
+msgid "Image for the review author"
+msgstr ""
+
+#: lucille-music-core/visual_composer/vc_map.php:424
+#: lucille-music-core/visual_composer/vc_map.php:427
+msgid "Review Content"
+msgstr ""
+
+#: lucille-music-core/visual_composer/vc_map.php:439
+msgid "User Reviews Slider"
+msgstr ""
+
+#: lucille-music-core/visual_composer/vc_map.php:464
+msgid "Blog Posts"
+msgstr ""
+
+#: lucille-music-core/visual_composer/vc_map.php:472
+msgid "Number Of Oosts"
+msgstr ""
+
+#: lucille-music-core/visual_composer/vc_map.php:475
+msgid "Number of posts to show. Default value: 3"
+msgstr ""
